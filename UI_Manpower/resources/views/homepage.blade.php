@@ -9,8 +9,8 @@
 <body>
   <nav class="bg-gray-300 p-4">
     <div class="container mx-auto flex justify-between items-center">
-      <div>
-        <a href="#" class="text-black font-bold text-xl px-24">CREWNNECT</a>
+      <div >
+        <a href="#" class="h-40 py-5"> <img src="{{url('images/crewnnect1.png')}}" alt=""></a>
       </div>
       <div class="hidden md:block">
         <ul class="flex space-x-4">
@@ -143,8 +143,11 @@
 
 
 
-
-michael
+<script>
+    document.getElementById('menu-toggle').addEventListener('click', function() {
+      document.getElementById('mobile-menu').classList.toggle('hidden');
+    });
+  </script>
 
 
   

@@ -45,7 +45,7 @@
       </ul>
     </div>
   </nav>
-  <div class="h-screen bg-red-900 flex flex-col sm:justify-center items-center pt-6 sm:pt-0">
+  <div class="h-screen bg-red-700 flex flex-col sm:justify-center items-center pt-6 sm:pt-0">
                 <div class="p-4 bg-gray-100x rounded-full borderx border-gray-200x hidden md:block">
                     <a href="/homepage"
                          class="w-20alba fill-current text-black font-style:cambria font-bold text-6xl h-20 fill-current">CREWNNECT</a>
